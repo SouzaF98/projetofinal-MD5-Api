@@ -13,7 +13,7 @@
 <p><p> O Desafio das Estrelas: A batalha pelo título! é um campeonato de futebol organizada para as equipes competirem uma entre outras em uma série de jogos para determinar qual equipe é a melhor do campeonato. As equipes são geralmente classificadas em uma tabela de classificação com base no resultados dos Jogos que acumulam. Para determinar o vencedor do campeonato será a equipe com o acumulo de ponto mais alto. 
 
 # Clone o repositório
-$ git clone https://github.com/dgsilva16/projeto-5-individual-Api
+$ git clone https://github.com/SouzaF98/projetofinal-MD5-Api
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Chat
