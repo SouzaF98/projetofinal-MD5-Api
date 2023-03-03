@@ -25,7 +25,7 @@ $ npm install
 $ npm start
 
 # Acesse o servidor
-$ <http://localhost:7075>
+$ <http://localhost:3000>
 
 
 
